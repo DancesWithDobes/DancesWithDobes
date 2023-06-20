@@ -3,7 +3,7 @@
 
 Programming: Python, C++ (basic), Rust (basic)
 
-Machine Learning: Neural networks (YOLOv8, ResNet), transformers, sklearn, pytorch
+Machine Learning: Neural networks, transformers, sklearn, pytorch
 
 Computer Vision: YOLO, Pillow, torchvision, cv
 
