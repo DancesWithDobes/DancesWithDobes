@@ -1,4 +1,16 @@
-### Hi there 👋
+
+## Technical Skills
+
+Programming: Python, C++ (basic), Rust (basic)
+
+Machine Learning: Neural networks (YOLOv8, ResNet), transformers, sklearn, pytorch
+
+Computer Vision: YOLO, Pillow, torchvision, cv
+
+Natural Language Processing: PDF summarization using NLP models
+
+Cloud Computing: Google Colab
+
 
 <!--
 **DancesWithDobes/DancesWithDobes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
