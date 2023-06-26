@@ -21,11 +21,11 @@ Cloud Computing: Google Colab
 
 ### Scientific PDF Document Summarization:
 
--Currently training a BART-based model.
 
 -Exploring a comparison between BART and t5 models.
 
 -Facing challenges in achieving visually appealing summarization outputs.
+
 
 
 ### Multi-Class Image Classification:
