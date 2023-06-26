@@ -38,7 +38,7 @@ Cloud Computing: Google Colab
 
 -Training YOLO to detect common objects encountered during driving, such as people, signs, traffic lights, crosswalks, and animals.
 
--Considering implementing a nano model, but system constraints (4GB RAM) may pose limitations on a ChromeOS tablet (Crostini Linux VM).
+-Considering implementing a nano model to use in real time on a tablet. However system constraints (4GB RAM) may pose limitations on a ChromeOS tablet (Crostini Linux VM).
 
 <!--
 **DancesWithDobes/DancesWithDobes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
