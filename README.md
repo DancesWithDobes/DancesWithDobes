@@ -1,7 +1,7 @@
 
 ## Technical Skills
 
-Programming: Python, C++ (basic), Rust (basic)
+Programming: Python, C++ (basic), Rust (basic, still learning :) )
 
 Machine Learning: Neural networks, transformers, sklearn, pytorch
 
